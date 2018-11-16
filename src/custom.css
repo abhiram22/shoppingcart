@@ -1,0 +1,25 @@
+.img-dimensions {
+    height:200px;
+    width:40%;
+    min-width: 80px;
+}
+.tmargin-bottom {
+    margin-bottom:10px;
+}
+.tbutton-round {
+    border-radius: 12px;
+    padding: 4px;
+}
+.tprod-heading {
+    padding:4px;
+}
+.theader {
+    height: 57px;
+    border-color: #dadada;
+    background: #dadada;
+}
+.tround-border {
+    border-radius: 12px;
+    padding: 4px;
+    border: 1px solid #dcdcdc;
+}
