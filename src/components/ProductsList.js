@@ -15,7 +15,7 @@ class ProductsList extends Component {
         var listItems = this.props.Products.map(function(item) {
             return (
               <section class="col-md-4 text-center tmargin-bottom">
-                <div class="card"> 
+                <div class="card tcard"> 
                     <div class="card-header tprod-heading">
                         <h6>{item.productName}</h6>
                     </div>
