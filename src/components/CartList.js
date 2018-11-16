@@ -20,7 +20,7 @@ class CartList extends Component {
                 </div>
                 <div class="col-md-4">
                     <button aria-label="Remove from Cart" type="button" 
-                                class="btn btn-secondary btn-sm tbutton-round"
+                                class="btn btn-secondary btn-sm tbutton-round float-right"
                                 onClick={()=> this.RemoveFromCartList(item)}>
                                 Remove
                     </button>
